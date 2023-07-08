@@ -5,7 +5,7 @@ const doctor = express.Router();
 
 const db = require('../../../utils/db');
 
-process.env.SECRET_KEY = 'Arijit';
+process.env.SECRET_KEY = 'Michael';
 
 doctor.post('/register', (req, res) => {
 

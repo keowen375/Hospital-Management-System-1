@@ -5,7 +5,7 @@ const superAdmin = express.Router();
 
 const db = require('../../../utils/db');
 
-process.env.SECRET_KEY = 'Arijit';
+process.env.SECRET_KEY = 'Michael';
 
 
 superAdmin.post('/register', (req, res) => {

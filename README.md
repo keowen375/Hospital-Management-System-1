@@ -18,7 +18,7 @@ A web based Hospital Patient Record Management System project.
 * Authentication provided using JWT
 
 ### Instruction
-* Clone This Repo https://github.com/arijitiiest/Hospital-Management-System
+* Clone This Repo git@github.com:keowen375/Hospital-Management-System-1.git
 * Configure your utils/db.js file accordingly
 * run 
   ``` bash
