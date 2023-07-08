@@ -27,3 +27,4 @@ api.get('/patients', (req, res) => {
 // api.get();
 
 module.exports = api;
+//module.exports = api;

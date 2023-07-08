@@ -2,10 +2,10 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const path = require('path');
 
-const Users = require('./routes/users');
-const Patient = require('./routes/users/Patient/patient');
-const Employee = require('./routes/users/Employee/employee');
-const Doctor = require('./routes/users/Doctor/docter');
+const Users = require('./routes/user');
+const Patient = require('./routes/users/Patient/patients');
+const Employee = require('./routes/users/Employee/employees');
+const Doctor = require('./routes/users/Doctor/doctor');
 const Admin = require('./routes/users/Administrator/admin');
 const superAdmin = require('./routes/users/Administrator/superAdmin');
 const api = require('./routes/api/api');

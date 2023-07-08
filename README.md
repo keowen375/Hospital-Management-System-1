@@ -13,7 +13,7 @@ A web based Hospital Patient Record Management System project.
 * Administrator Login
 
 ## Technology Stack
-* Back-End Technologies: Node Js, Express Js, MySQL
+* Back-End Technologies: Node Js,  MySQL
 * Front-End Technologies: React Js, BootStrap
 * Authentication provided using JWT
 
